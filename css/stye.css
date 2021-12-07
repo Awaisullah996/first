@@ -1,0 +1,9 @@
+h1{
+    margin:  200px auto; 
+    color: blue;
+    background-image: url(./);
+}
+img{
+    width: 100%;
+    height: 500px;
+}
